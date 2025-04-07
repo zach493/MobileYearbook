@@ -8,6 +8,9 @@
         "projectId": "e15da59c-886b-4091-b7b4-5283c2480c6a"
       }
     },
-    "owner": "zach493"
+    "owner": "zach493",
+    "android": {
+      "package": "com.zach493.SMCYearbook"
+    }
   }
 }
